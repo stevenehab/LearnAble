@@ -1,7 +1,7 @@
-# LearnAble Full Ready App
+
 
 Run:
-1. Optional: start Ollama locally and pull a model, for example:
+1. start Ollama locally and pull a model, for example:
    ollama pull phi:latest
 2. Install:
    npm install
