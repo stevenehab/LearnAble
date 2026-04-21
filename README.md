@@ -1,8 +1,3 @@
-Here’s a much simpler README — exactly what you asked for (no unnecessary steps, just run it):
-
-⸻
-
-
 # LearnAble (Local AI Learning App)
 
 LearnAble is a local AI-powered app that helps you understand documents using summaries, flashcards, and chat — all running on your computer with Ollama.
